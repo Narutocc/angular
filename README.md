@@ -6,3 +6,4 @@
 |[angular服务](https://github.com/Narutocc/angular/issues/7)|[ng-route && ui-router](https://github.com/Narutocc/angular/issues/8)|
 |[angular指令](https://github.com/Narutocc/angular/issues/9)|[ui-sref指令](https://github.com/Narutocc/angular/issues/10)|
 |[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)|[angular-ui-router API](https://github.com/Narutocc/angular/issues/12)|
+|[limitTo实现分页效果](https://github.com/Narutocc/angular/issues/13)||
