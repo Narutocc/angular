@@ -7,6 +7,9 @@
 |[angular指令](https://github.com/Narutocc/angular/issues/9)|[ui-sref指令](https://github.com/Narutocc/angular/issues/10)|
 |[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)|[angular-ui-router API](https://github.com/Narutocc/angular/issues/12)|
 
+| issue | |
+| --------- | --------- |
+|[limitTo实现分页效果](https://github.com/Narutocc/angular/issues/13)||
 
 | 实例操作 | |
 | --------- | --------- |
