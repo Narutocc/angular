@@ -5,4 +5,4 @@
 |[Angular中的MVC模型](https://github.com/Narutocc/angular/issues/5)|[angular组件scope作用域](https://github.com/Narutocc/angular/issues/6)|
 |[angular服务](https://github.com/Narutocc/angular/issues/7)|[ng-route && ui-router](https://github.com/Narutocc/angular/issues/8)|
 |[angular指令](https://github.com/Narutocc/angular/issues/9)|[ui-sref指令](https://github.com/Narutocc/angular/issues/10)|
-|[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)||
+|[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)|[angular-ui-router API](https://github.com/Narutocc/angular/issues/12)|
