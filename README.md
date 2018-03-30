@@ -9,7 +9,7 @@
 
 | issue | |
 | --------- | --------- |
-|[limitTo实现分页效果](https://github.com/Narutocc/angular/issues/13)||
+|[angular 数据获取后，无法及时更新到视图层](https://github.com/Narutocc/angular/issues/14)||
 
 | 实例操作 | |
 | --------- | --------- |
