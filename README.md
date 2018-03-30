@@ -1,11 +1,11 @@
 | Guess you like | |
 | --------- | --------- |
-|[angular ajax请求](https://github.com/Narutocc/angular/issues/1)||
-|[多种方式实现文本省略(ng)](https://github.com/Narutocc/angular/issues/3)|[双向数据绑定的几种方法](https://github.com/Narutocc/angular/issues/4)|
 |[Angular中的MVC模型](https://github.com/Narutocc/angular/issues/5)|[angular组件scope作用域](https://github.com/Narutocc/angular/issues/6)|
-|[angular服务](https://github.com/Narutocc/angular/issues/7)|[ng-route && ui-router](https://github.com/Narutocc/angular/issues/8)|
+|[ng-route && ui-router](https://github.com/Narutocc/angular/issues/8)|[angular-ui-router API](https://github.com/Narutocc/angular/issues/12)|
+|[angular服务](https://github.com/Narutocc/angular/issues/7)|[angular ajax请求](https://github.com/Narutocc/angular/issues/1)|
 |[angular指令](https://github.com/Narutocc/angular/issues/9)|[ui-sref指令](https://github.com/Narutocc/angular/issues/10)|
-|[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)|[angular-ui-router API](https://github.com/Narutocc/angular/issues/12)|
+|[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)||
+|[多种方式实现文本省略(ng)](https://github.com/Narutocc/angular/issues/3)|[双向数据绑定的几种方法](https://github.com/Narutocc/angular/issues/4)|
 
 | issue | |
 | --------- | --------- |
