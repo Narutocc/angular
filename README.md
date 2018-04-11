@@ -6,7 +6,7 @@
 |[angular指令](https://github.com/Narutocc/angular/issues/9)|[ui-sref指令](https://github.com/Narutocc/angular/issues/10)|
 |[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)|[angular组件scope作用域](https://github.com/Narutocc/angular/issues/6)|
 |[angular.foreach循环方法](https://github.com/Narutocc/angular/issues/15)|[Angular ng-repeat高级用法](https://github.com/Narutocc/angular/issues/16)|
-|[ng-class && ng-style](https://github.com/Narutocc/angular/issues/17)||
+|[ng-class && ng-style](https://github.com/Narutocc/angular/issues/17)|[angular请求多个接口之后再统一返回数据](https://github.com/Narutocc/angular/issues/18)|
 
 | issue | |
 | --------- | --------- |
