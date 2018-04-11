@@ -15,3 +15,4 @@
 | 实例操作 | |
 | --------- | --------- |
 |[limitTo实现分页效果](https://github.com/Narutocc/angular/issues/13)|[多种方式实现文本省略(ng)](https://github.com/Narutocc/angular/issues/3)|
+|[angular常规小语法](https://github.com/Narutocc/angular/issues/19)||
