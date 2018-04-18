@@ -7,7 +7,7 @@
 |[Angular数据类型判断](https://github.com/Narutocc/angular/issues/11)|[angular组件scope作用域](https://github.com/Narutocc/angular/issues/6)|
 |[angular.foreach循环方法](https://github.com/Narutocc/angular/issues/15)|[Angular ng-repeat高级用法](https://github.com/Narutocc/angular/issues/16)|
 |[ng-class && ng-style](https://github.com/Narutocc/angular/issues/17)|[angular请求多个接口之后再统一返回数据](https://github.com/Narutocc/angular/issues/18)|
-|[$locationProvider html5mode](https://github.com/Narutocc/angular/issues/20)||
+|[$locationProvider html5mode](https://github.com/Narutocc/angular/issues/20)|[$timeout && $interval](https://github.com/Narutocc/angular/issues/21)|
 
 | issue | |
 | --------- | --------- |
